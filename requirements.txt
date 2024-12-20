@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pickle5
+dataclasses
+ydata-profiling
